@@ -1,4 +1,4 @@
-# Analiza i Prognoza Rynku Gier Wideo (1980-2016)
+# Analiza Rynku Gier Wideo (1980-2016)
 
 Projekt analityczny mający na celu zbadanie trendów sprzedaży gier wideo oraz budowę modelu ekonometrycznego estymującego wartość rynku. Analiza opiera się na danych historycznych obejmujących sprzedaż globalną i regionalną.
 
